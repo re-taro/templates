@@ -10,3 +10,6 @@
 [submodule "preact-typescript-template"]
 	path = preact-typescript-template
 	url = https://github.com/re-taro/preact-typescript-template.git
+[submodule "npm-module-template"]
+	path = npm-module-template
+	url = https://github.com/re-taro/npm-module-template.git
