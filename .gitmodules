@@ -1,0 +1,12 @@
+[submodule "nodejs-template"]
+	path = nodejs-template
+	url = https://github.com/re-taro/nodejs-template.git
+[submodule "nodejs-typescript-template"]
+	path = nodejs-typescript-template
+	url = https://github.com/re-taro/nodejs-typescript-template.git
+[submodule "react-typescript-template"]
+	path = react-typescript-template
+	url = https://github.com/re-taro/react-typescript-template.git
+[submodule "preact-typescript-template"]
+	path = preact-typescript-template
+	url = https://github.com/re-taro/preact-typescript-template.git
