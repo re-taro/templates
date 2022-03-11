@@ -8,6 +8,10 @@
 
 &nbsp;
 
+[![nest-graphql-template](https://github-readme-stats.vercel.app/api/pin/?username=re-taro&repo=nest-graphql-template&theme=nord)](https://github.com/re-taro/nest-graphql-template)
+
+&nbsp;
+
 [![nodejs-template](https://github-readme-stats.vercel.app/api/pin/?username=re-taro&repo=nodejs-template&theme=nord)](https://github.com/re-taro/nodejs-template)
 
 &nbsp;
@@ -27,8 +31,6 @@
 [![react-typescript-template](https://github-readme-stats.vercel.app/api/pin/?username=re-taro&repo=react-typescript-template&theme=nord)](https://github.com/re-taro/react-typescript-template)
 
 &nbsp;
-
-[![nest-graphql-template](https://github-readme-stats.vercel.app/api/pin/?username=re-taro&repo=nest-graphql-template&theme=nord)](https://github.com/re-taro/nest-graphql-template)
 
 ## Licence
 This project is licensed under [MIT license](https://opensource.org/licenses/MIT).
