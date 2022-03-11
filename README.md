@@ -28,6 +28,8 @@
 
 &nbsp;
 
+[![nest-graphql-template](https://github-readme-stats.vercel.app/api/pin/?username=re-taro&repo=nest-graphql-template&theme=nord)](https://github.com/re-taro/nest-graphql-template)
+
 ## Licence
 This project is licensed under [MIT license](https://opensource.org/licenses/MIT).
 

@@ -13,3 +13,6 @@
 [submodule "npm-module-template"]
 	path = npm-module-template
 	url = https://github.com/re-taro/npm-module-template.git
+[submodule "nest-graphql-template"]
+	path = nest-graphql-template
+	url = https://github.com/re-taro/nest-graphql-template.git
